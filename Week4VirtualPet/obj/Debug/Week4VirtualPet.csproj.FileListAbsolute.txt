@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4VirtualPet\Week4VirtualPet\bin\Debug\Week4VirtualPet.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4VirtualPet\Week4VirtualPet\bin\Debug\Week4VirtualPet.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4VirtualPet\Week4VirtualPet\bin\Debug\Week4VirtualPet.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4VirtualPet\Week4VirtualPet\obj\Debug\Week4VirtualPet.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4VirtualPet\Week4VirtualPet\obj\Debug\Week4VirtualPet.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4VirtualPet\Week4VirtualPet\obj\Debug\Week4VirtualPet.pdb
